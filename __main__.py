@@ -1,4 +1,4 @@
-__author__ = 'Zhongqi Li'
+__author__ = 'Stanley Li'
 
 import sys
 from uscisscanner import __main__
